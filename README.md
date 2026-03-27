@@ -17,3 +17,7 @@ A Next.js + Supabase project deployed on Vercel.
 - Next.js
 - Supabase
 - Vercel
+
+## Login Details
+Email : paroisseterredegoshen@gmail.com
+password : Lightemma 123@
